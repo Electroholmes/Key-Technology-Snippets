@@ -1,1 +1,1 @@
-** This folder consists of AI related Snippets.**
+**This folder consists of AI related Snippets.**
